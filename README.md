@@ -1,16 +1,17 @@
-### Hi there 👋
+# Howdy 👋  I'm Maddie!
+## Space Grade Security Recruiter 👩‍🚀 
 
-<!--
-**MadNadler/MadNadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spend my days traversing the galaxy of talent (well, GitHub and LinkedIn), searching for the **Einsteins** and **Ewoks** who'll secure the space technology that will make **humanity multiplanetary** 🪐
 
-Here are some ideas to get you started:
+> ** Fun fact:** Recruiting security engineers is harder than landing a Falcon Heavy on a dime! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📢  If you're a security whiz with a penchant for **zero-day ⁤⁣⁢⁡‌⁡‍‍⁣‌⁡‍⁡‍⁣⁢‍⁤⁡‌⁡⁢⁡‍‍⁢⁡‍‍⁣‌⁢‌⁢‍⁤⁡‌⁡⁢⁡‍‌‌⁢‍⁤⁡⁢‌⁣‍⁢⁣‍⁡⁢⁡‍⁡⁢⁡‍‍⁣‍⁣⁢‍⁤⁢‍‌⁡⁢‍⁤⁢‌⁡⁤‌⁢‍vulnerabilities** ☣️ and a tolerance for occasional **space jokes**, listen up! 
+
+We've got rockets to ⁤⁣⁡⁢‌⁡‍⁣⁡‍‌‍⁡‍⁡⁤‍⁤⁡‌⁡⁢⁡‍‍⁢⁡‍‍⁣‌⁢‌⁢‍⁤⁡‌⁡⁢⁡‍‌‌⁢‍⁤⁡⁢‌⁣‍⁢⁣‍⁡⁢⁡‍⁡⁢⁡‍‍⁣‍⁣⁢‍⁢⁡⁢‍⁤⁢‍‌⁡⁢‍⁤⁢‌⁡⁤‌⁢‍⁢‍⁤⁢‌‌⁡⁢‍⁤⁡‍⁣⁡‌⁡‍⁡‍⁣⁡‌⁢‍⁡‌‍⁣‌⁡⁢⁡‍‍⁢⁡‍‍⁣‍‌‍⁡‍⁡‌⁢‍‌⁤‍⁤⁡‌⁡⁢⁡‍‍⁢⁡‍⁣⁢‍⁤⁡‍‌⁣‍⁣⁡‍⁢⁣‍‌‍⁡‍‍⁣‍‌‍⁡‍⁡‌⁢‍⁤⁡‍‌‌⁡‍⁡‍⁢‍⁤⁡‍‌⁢⁡‍‍⁣‍⁡‍⁡‍⁣fuel ⛽️, satellite internet to launch 🛰️, planets to colonize 🚀, and firewalls to fortify 🔥
+
+## Ready to take on a security challenge that is out of this world? 🪐
+### [Check out our Open Positions 🚀](https://www.spacex.com/careers/jobs?discipline=engineering+-+security)
+
+**Bonus points If you can find the secret message in this readme!**
+
+Apply [Here 🛰️](https://www.spacex.com/careers/jobs?discipline=engineering+-+security)  Or reach out to **madison.nadler@spacex.com**
